@@ -9,6 +9,7 @@ namespace Calculadoratarea
         string op = "";
         double n1 = 0;
         double n2 = 0;
+        //Comentario solo para generar un cambio y probar github
         private void Form1_Load(object sender, EventArgs e)
         {
 
