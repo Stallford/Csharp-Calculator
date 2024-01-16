@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\bin\Debug\net6.0-windows\Calculadoratarea.exe
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\bin\Debug\net6.0-windows\Calculadoratarea.deps.json
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\bin\Debug\net6.0-windows\Calculadoratarea.runtimeconfig.json
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\bin\Debug\net6.0-windows\Calculadoratarea.dll
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\bin\Debug\net6.0-windows\Calculadoratarea.pdb
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.Form1.resources
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.dll
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\refint\Calculadoratarea.dll
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.pdb
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\ref\Calculadoratarea.dll
+C:\Users\Usuario\source\repos\Calculadoratarea\Calculadoratarea\obj\Debug\net6.0-windows\Calculadoratarea.Properties.Resources.resources
